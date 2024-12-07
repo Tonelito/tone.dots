@@ -93,7 +93,7 @@ return {
 
   -- Plugin: mini.nvim
   -- URL: https://github.com/echasnovski/mini.nvim
-  -- Description: A collection of minimal, fast, and modular Lua plugins for Neovim.
+  -- Description: A Neovim plugin for animations.
   {
     "echasnovski/mini.nvim",
     version = false, -- Use the latest version
